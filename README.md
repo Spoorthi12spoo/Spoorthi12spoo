@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student & Aspiring Full Stack Developer</h3>
 
 <p align="center">
-  I build web applications using <b>Flask</b>, <b>HTML</b>, <b>CSS</b> ,<b>ReactJS</b>, and <b>MySQL/SQLite</b> and enjoy working on data-driven projects and clean UI.
+   I am skilled in <b>Python</b> I build web applications using <b>Flask</b>, <b>HTML</b>, <b>CSS</b> ,<b>ReactJS</b>, and <b>MySQL/SQLite</b> and enjoy working on data-driven projects and clean UI.
 </p>
 
 - 🌱 I’m currently learning **Flask, ReactJS**
