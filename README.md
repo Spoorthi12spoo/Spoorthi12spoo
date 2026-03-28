@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student & Aspiring Servicenow Developer</h3>
 
 - 💻 Interested in **ServiceNow Development & Workflow Automation**  
-- 🎯 Interested in **backend APIs, full stack projects, and problem solving**
+- 🎯 Interested in **Full stack projects, and problem solving**
 - 📫 Reach me at **spoorthispoo8427@gmail.com**
 - 📄 View my resume & experiences  
   <a href="https://drive.google.com/file/d/1a7C5GcDRjk2cJ3Cg-FCbXrojHKtLbrwd/view?usp=drivesdk" target="_blank">Resume (Google Drive)</a>
