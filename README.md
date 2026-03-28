@@ -1,18 +1,36 @@
 <h1 align="center">Hi 👋, I'm Spoorthi</h1>
-<h3 align="center">Computer Science Student & Aspiring Full Stack Developer</h3>
+<h3 align="center">Computer Science Student & Aspiring Servicenow Developer</h3>
 
-<p align="center">
-   I am skilled in <b>Python</b> and build web applications using <b>Flask</b>, <b>HTML</b>, <b>CSS</b> ,<b>ReactJS</b>, and <b>MySQL</b> and enjoy working on data-driven projects and clean UI.
-</p>
-
-- 🌱 I’m currently learning **Flask, ReactJS**
+- 💻 Interested in **ServiceNow Development & Workflow Automation**  
 - 🎯 Interested in **backend APIs, full stack projects, and problem solving**
 - 📫 Reach me at **spoorthispoo8427@gmail.com**
 - 📄 View my resume & experiences  
   <a href="https://drive.google.com/file/d/1a7C5GcDRjk2cJ3Cg-FCbXrojHKtLbrwd/view?usp=drivesdk" target="_blank">Resume (Google Drive)</a>
 
 ---
+## 🧠 ServiceNow Skills
+- Client Scripts  
+- Business Rules  
+- UI Policies  
+- UI Actions  
+- Form Customization  
+- Flow Designer  
+- Service Catalog  
+- Forms, Lists & Tables Management
 
+
+## 🚀 ServiceNow Case Studies
+
+### ✅ Auto Resolution Engine
+- Developed an automated incident resolution system using **Business Rules**
+- Reduced manual effort in handling low-priority incidents
+- Improved incident handling efficiency through automation
+
+### ✅ Asset Tracking Application
+- Developed an asset tracking solution using **ServiceNow Studio**
+- Implemented lifecycle tracking for organizational assets
+- Simplified asset management and record maintenance
+  
 ### 🚀 Featured Projects
 
 - **Farmer Management System** – Web platform connecting farmers and customers for direct sales.  
@@ -40,6 +58,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
   </a>
