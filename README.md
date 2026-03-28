@@ -7,7 +7,6 @@
 - 📄 View my resume & experiences  
   <a href="https://drive.google.com/file/d/1a7C5GcDRjk2cJ3Cg-FCbXrojHKtLbrwd/view?usp=drivesdk" target="_blank">Resume (Google Drive)</a>
 
----
 ## 🧠 ServiceNow Skills
 - Client Scripts  
 - Business Rules  
@@ -21,12 +20,12 @@
 
 ## 🚀 ServiceNow Case Studies
 
-### ✅ Auto Resolution Engine
+###  Auto Resolution Engine
 - Developed an automated incident resolution system using **Business Rules**
 - Reduced manual effort in handling low-priority incidents
 - Improved incident handling efficiency through automation
 
-### ✅ Asset Tracking Application
+###  Asset Tracking Application
 - Developed an asset tracking solution using **ServiceNow Studio**
 - Implemented lifecycle tracking for organizational assets
 - Simplified asset management and record maintenance
