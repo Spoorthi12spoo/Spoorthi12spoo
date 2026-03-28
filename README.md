@@ -5,7 +5,7 @@
 - 🎯 Interested in **Full stack projects, and problem solving**
 - 📫 Reach me at **spoorthispoo8427@gmail.com**
 - 📄 View my resume & experiences  
-  <a href="https://drive.google.com/file/d/1a7C5GcDRjk2cJ3Cg-FCbXrojHKtLbrwd/view?usp=drivesdk" target="_blank">Resume (Google Drive)</a>
+  <a href="[https://drive.google.com/file/d/1a7C5GcDRjk2cJ3Cg-FCbXrojHKtLbrwd/view?usp=drivesdk](https://drive.google.com/file/d/1A_Fb8cczKE3CU1agD-OaSbNqQtpp28nn/view?usp=sharing)" target="_blank">Resume (Google Drive)</a>
 
 ## 🧠 ServiceNow Skills
 - Client Scripts  
